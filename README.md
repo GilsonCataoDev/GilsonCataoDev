@@ -5,7 +5,7 @@ Busco **estágio ou vaga júnior em TI**: front-end, suporte técnico ou desenvo
 
 ## Stack
 **Front-end:** React · TypeScript · JavaScript · HTML · CSS · Tailwind · Vite  
-**Back-end e dados (em evolução):** Node.js · NestJS · PostgreSQL · Prisma · Python  
+**Back-end e dados (em evolução):** Node.js · NestJS · PostgreSQL · Prisma · Python
 **Ferramentas:** Git · GitHub · Docker (básico) · Playwright  
 **Estudando:** Redes · Linux · Troubleshooting · Cibersegurança · Suporte de TI (Google)
 
