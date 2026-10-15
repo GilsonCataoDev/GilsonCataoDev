@@ -1,4 +1,4 @@
-# Olá, sou o Gilson Pereira 👋
+# Olá, sou o Gilson Pereira 
 
 Farmacêutico em transição para tecnologia e estudante de **Análise e Desenvolvimento de Sistemas**. Construo projetos práticos para aprender desenvolvimento web, dados e back-end.
 Busco **estágio ou vaga júnior em TI**: front-end, suporte técnico ou desenvolvimento em formação.
