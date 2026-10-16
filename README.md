@@ -13,7 +13,7 @@ Busco **estágio ou vaga júnior em TI**: front-end, suporte técnico ou desenvo
 | Projeto | O que é | Stack | Demo |
 |---|---|---|---|
 | UseCognia | SaaS para profissionais de saúde: agenda, prontuário e cobrança | NestJS · React · PostgreSQL · TypeScript | [usecognia.vercel.app](https://usecognia.vercel.app) |
-| [Binary Intelligence AI](https://github.com/GilsonCataoDev/Binary-intelligence) | Pesquisa de viabilidade com backtesting e ML; resultado negativo documentado e execução real bloqueada | Python · NestJS · React · PostgreSQL | – |
+| [Binary Intelligence AI](https://github.com/GilsonCataoDev/Binary-intelligence) | Laboratório de pesquisa para BTC/USDT e XAU/USD com backtesting e custos explícitos; execução real bloqueada | Python · NestJS · React · PostgreSQL | – |
 | [Kurio](https://github.com/GilsonCataoDev/Task-jungle-gaming) | Marketplace de NFTs: catálogo, carrinho, tempo real e testes E2E | React 19 · TanStack · Tailwind · MSW · Playwright | [demo](https://task-jungle-gaming.vercel.app) |
 | [Clinvag](https://github.com/GilsonCataoDev/Clinvag) | Landing page para clínica de vacinação | React · Vite · CSS Modules | [demo](https://clinvag.netlify.app) |
 | [Kanban de Suporte](https://github.com/GilsonCataoDev/kaban-suporte) | Quadro de tickets de suporte por etapa | React · TypeScript · Vite | – |
