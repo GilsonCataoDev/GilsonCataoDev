@@ -13,7 +13,7 @@ Busco **estágio ou vaga júnior em TI**: front-end, suporte técnico ou desenvo
 ## Projetos em destaque
 | Projeto | O que é | Stack | Demo |
 |---|---|---|---|
-| UseCognia | SaaS para profissionais de saúde: agenda, prontuário e cobrança | NestJS · React · PostgreSQL · TypeScript | [usecognia.vercel.app](https://usecognia.vercel.app) |
+| UseCognia | SaaS para profissionais de saúde: agenda, prontuário e cobrança | NestJS · React · PostgreSQL · TypeScript | [usecognia.com.br](https://usecognia.com.br) |
 | FarmaApp | Assistente para farmacêuticos com busca de informações de medicamentos por IA (API do Gemini) | React · Node.js (serverless) | [pharma-plum-chi.vercel.app](https://pharma-plum-chi.vercel.app) |
 | [WinHelpDesk Toolkit](https://github.com/GilsonCataoDev/WinHelpDesk-Toolkit) | Script para suporte N1/N2 no Windows: rede, reparo, spooler, limpeza e diagnóstico | Batch · PowerShell | – |
 | [Kurio](https://github.com/GilsonCataoDev/Task-jungle-gaming) | Marketplace de NFTs: catálogo, carrinho, tempo real e testes E2E | React 19 · TanStack · Tailwind · MSW · Playwright | [demo](https://task-jungle-gaming.vercel.app) |
