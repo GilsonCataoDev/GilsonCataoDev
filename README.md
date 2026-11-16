@@ -24,7 +24,7 @@ Busco **estágio ou vaga júnior em TI**: front-end, suporte técnico ou desenvo
 | [Agenda Médica](https://github.com/GilsonCataoDev/agenda-medica) | Agenda diária para clínicas | React · TypeScript · Vite | – |
 | [Financeiro SaaS](https://github.com/GilsonCataoDev/financeiro-saas) | Dashboard de receita, faturas e MRR | React · TypeScript · Vite | – |
 
-Portfólio: [portfolio-vercel-delta-green.vercel.app](https://portfolio-vercel-delta-green.vercel.app) ([código](https://github.com/GilsonCataoDev/portfolio-vercel)) · versão anterior: [gilsoncataodev.github.io/portfolio](https://gilsoncataodev.github.io/portfolio/)
+Portfólio: [gilson-pereira.vercel.app](https://gilson-pereira.vercel.app) ([código](https://github.com/GilsonCataoDev/portfolio-vercel)) · versão anterior: [gilsoncataodev.github.io/portfolio](https://gilsoncataodev.github.io/portfolio/)
 
 ## Como eu trabalho
 
